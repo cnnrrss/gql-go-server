@@ -1,0 +1,17 @@
+# ides / editors
+.idea/
+.vscode/
+.iml/
+
+# binaries
+bin/*
+*.zip
+
+# go coverage and test output
+*.out
+*.test
+*.prof
+*coverage.html
+
+# logs
+.log
