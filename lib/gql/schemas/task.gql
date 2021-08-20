@@ -1,0 +1,10 @@
+type Task {
+    id: ID!
+    title: String!
+    description: String
+}
+
+input TaskInput {
+    title: String
+    Description: String
+}
